@@ -52,6 +52,9 @@ let pessoa = {
     idade: 35,
     feliz: true,
     pets: ["tartaruga", "coelho"],
+    objeto(){
+
+    },
     carro: { //Objeto dentro de um objeto
         camaro: {
             placa: "123456",
